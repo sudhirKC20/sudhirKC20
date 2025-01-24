@@ -1,3 +1,5 @@
+<h1 align="center">Hi There..👋! I am Sudhir Kumar Choudhury</h1>
+<p align="center">A software Developer From India</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudhir-kumar-choudhury-97142b280/) 
